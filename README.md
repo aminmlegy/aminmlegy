@@ -1,7 +1,7 @@
 <h2 align="center">Welcome to Amin Elmlegy's </h2>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF285D&center=true&vCenter=true&width=435&lines=Front-End+Developer;Always+learning+new+things" alt="Typing SVG" /></a></h3>
 
-  <img align="right" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"/>
+  <img align="right" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" style="width:200px;"/>
 
 - 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 
